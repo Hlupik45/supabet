@@ -1,2 +1,0 @@
-# supabet
-supabet site
